@@ -104,7 +104,6 @@ class _HomePageState extends State<HomePage> {
       ),
           ),
       ),
-      ),
     );
   }
 
@@ -237,4 +236,4 @@ class _HomePageState extends State<HomePage> {
       child: Icon(icon, color: Colors.white70, size: 19),
     ),
   );
-
+}
